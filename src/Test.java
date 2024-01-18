@@ -17,6 +17,7 @@ public class Test {
 
     
     // i need coments for this method
+    // твій код добре
     public static void main(String[] args) {
         int res = FindSpeed(2,70);// àðãóìåíòè
         int prise = res * 7;
