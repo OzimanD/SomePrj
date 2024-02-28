@@ -9,6 +9,7 @@ public class Test {
     static void msg1(){
         System.out.println("please input variable");
     }
+    //some change on fabrary
 
     static int FindSpeed(int t, int v){//ïàðàìåòðè
         int s = v*t;
